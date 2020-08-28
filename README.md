@@ -1,2 +1,2 @@
 # COMP9444-20T2
-All related files about COMP9444, CSE, UNSW
+Homework 1: 29/30, Homework 2: 26.6/30
